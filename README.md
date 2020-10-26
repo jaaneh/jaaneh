@@ -14,7 +14,7 @@
 > Next.js
 > Tailwind CSS
 > MongoDB && PostgreSQL
-> Express.js && Nest.js
+> Express.js
 ```
 ```bash
 > help --contact
