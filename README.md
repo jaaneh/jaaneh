@@ -4,15 +4,14 @@
 
 ```bash
 > help --info
-> A 25 year old Norwegian male who mainly uses JavaScript to create
-> and develop. He currently works at Noroff school in Norway where he
-> also graduated from at the end of 2019.
+> A 25 year old Norwegian male who mainly uses JavaScript and TypeScript
+> to create and develop. He currently works at Noroff school in Norway
+> where he also graduated from at the end of 2019.
 ```
 ```bash
 > help --stack
-> React.js
 > Next.js
-> Tailwind CSS
+> Tailwind CSS && Chakra UI
 > MongoDB && PostgreSQL
 > Express.js
 ```
