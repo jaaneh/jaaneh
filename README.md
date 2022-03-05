@@ -4,7 +4,7 @@
 
 ```bash
 > help --info
-> A 25 year old Norwegian male who mainly uses JavaScript & TypeScript
+> A 26 year old Norwegian male who mainly uses JavaScript & TypeScript
 > to create and develop. He currently works at Noroff school in Norway
 > where he also graduated from at the end of 2019.
 ```
