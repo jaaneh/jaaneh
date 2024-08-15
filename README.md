@@ -4,21 +4,21 @@
 
 ```bash
 > help --info
-> A 28 year old Norwegian male who mainly uses JavaScript & TypeScript
-> to create and develop. He currently works at Noroff school in Norway
-> where he also graduated from at the end of 2019.
+- A 28 year old Norwegian male who mainly uses JavaScript & TypeScript
+  to create and develop. He currently works at Noroff school in Norway
+  where he also graduated from at the end of 2019.
 ```
 ```bash
 > help --stack
-> Next.js
-> Tailwind CSS && shadcn/ui && Mantine
-> MongoDB && PostgreSQL
-> Express.js && Fastify
+- Next.js
+- Tailwind CSS && shadcn/ui && Mantine
+- PostgreSQL && MySQL
+- Fastify && Hono
 ```
 ```bash
 > help --contact
-> github: jaaneh
-> twitter: jaan
-> instagram: jaany
-> mailto: me [at] jaany.xyz
+- github: jaaneh
+- twitter: jaan
+- instagram: jaany
+- mailto: me [at] jaany.xyz
 ```
