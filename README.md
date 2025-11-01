@@ -10,10 +10,10 @@
 ```
 ```bash
 > help --stack
-- Next.js
-- Tailwind CSS && shadcn/ui && Mantine
-- PostgreSQL && MySQL
-- Fastify && Hono
+- TanStack Start && Next.js
+- Tailwind CSS && shadcn/ui
+- PostgreSQL
+- Hono
 ```
 ```bash
 > help --contact
