@@ -4,9 +4,9 @@
 
 ```bash
 > help --info
-- A 30 year old Norwegian male who mainly uses JavaScript & TypeScript
-  to create and develop. He currently works at Amedia in Norway. He
-  graduated from Noroff at the end of 2019.
+- A 30 year old Norwegian male who mainly uses TypeScript to
+  create and develop. He currently works at Amedia in Norway.
+  He graduated from Noroff at the end of 2019.
 ```
 ```bash
 > help --stack
